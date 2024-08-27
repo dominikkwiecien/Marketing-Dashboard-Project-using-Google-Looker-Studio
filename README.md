@@ -60,7 +60,3 @@ This project showcases the power of data visualization in Google Looker Studio, 
 ## Contributions
 
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements or suggest new features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
